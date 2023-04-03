@@ -1,0 +1,50 @@
+[
+  {
+    "id": "31f30f63-00b4-4032-a80f-e5b3cee7a4c3",
+    "name": "Ride the Lightning",
+    "artist": "Metallica",
+    "releaseYear": 1984,
+    "genre": "Metal",
+    "albumCoverUrl": "https://upload.wikimedia.org/wikipedia/en/f/f4/Ridetl.png"
+  },
+  {
+    "id": "195f30df-7304-40e8-9d4f-1ba467a84c9a",
+    "name": "Hail to the King",
+    "artist": "Avenged Sevenfold",
+    "releaseYear": 2013,
+    "genre": "Metal",
+    "albumCoverUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/A7XHailtotheKing.png"
+  },
+  {
+    "id": "e0c103f7-f927-4525-8e3a-a733f4e38566",
+    "name": "Hollywood's Bleeding",
+    "artist": "Post Malone",
+    "releaseYear": 2019,
+    "genre": "Hip-Hop",
+    "albumCoverUrl": "https://upload.wikimedia.org/wikipedia/en/5/58/Post_Malone_-_Hollywood%27s_Bleeding.png"
+  },
+  {
+    "id": "32fe67c5-48d6-4ac7-8d33-9997842cfd3c",
+    "name": "American Idiot",
+    "artist": "Green Day",
+    "releaseYear": 2004,
+    "genre": "Rock",
+    "albumCoverUrl": "https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b"
+  },
+  {
+    "id": "a5665737-0e88-4b3c-88bd-6e3d251d724c",
+    "name": "Transmissions",
+    "artist": "Starset",
+    "releaseYear": 2018,
+    "genre": "Rock",
+    "albumCoverUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Starset_Transmissions.jpg/220px-Starset_Transmissions.jpg"
+  },
+  {
+    "id": "d56e1ab9-1653-41c0-bfdd-ca0e80f91776",
+    "name": "The Eminem Show",
+    "artist": "Eminem",
+    "releaseYear": 2002,
+    "genre": "Hip-Hop",
+    "albumCoverUrl": "https://upload.wikimedia.org/wikipedia/en/3/35/The_Eminem_Show.jpg"
+  }
+]

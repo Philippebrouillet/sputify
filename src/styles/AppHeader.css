@@ -1,0 +1,20 @@
+nav {
+  background-color: #f6f6f6;
+  border-bottom: 1px solid #ccc;
+}
+
+#logo {
+  color: var(--primary);
+  font-weight: bold;
+}
+
+.ModalNavBar {
+  background-color: #f6f6f6;
+  border: 1px solid #ccc;
+  z-index: 100;
+  padding: 50px;
+  height: 300px;
+  position: absolute;
+  right: 0px;
+  top: 56px;
+}
